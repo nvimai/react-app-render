@@ -1,0 +1,28 @@
+{
+  "name": "react-app-render",
+  "version": "1.0.0",
+  "description": "Using Express Server (NodeJS) to render React App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvimai/react-app-render.git"
+  },
+  "keywords": [
+    "react-app-render",
+    "nodejs",
+    "express-server"
+  ],
+  "author": "Nvi Mai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvimai/react-app-render/issues"
+  },
+  "homepage": "https://github.com/nvimai/react-app-render#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
