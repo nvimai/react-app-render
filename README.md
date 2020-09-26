@@ -12,6 +12,10 @@ Using Express Server (NodeJS) to render the React App
 3. Run to build your React App
   
     `npm run build`
+    
+    *If getting the `Cannot GET /[URL]` then:*
+
+      `CI=false npm run build`
 4. Copy and paste the whole `build` folder from your React App to this repo
 5. Initialize the `PORT` in `.env` file
 6. Run this project
